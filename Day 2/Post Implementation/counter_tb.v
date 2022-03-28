@@ -28,3 +28,5 @@ end
 
 always 
 #5 clk=~clk;  // toggle or negate the clk input every 5 units of time
+
+endmodule
