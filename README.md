@@ -19,4 +19,6 @@ This repository contains all the information about FPGA - Fabric Design and Arch
 - OpenFPGA framework
 - Skywater OpenSource FPGA
 
-## Day - 1 : 
+## Day - 1 : Introduction to FPGA, Implementation of Counter using vivado, Performing Vivado timing, power and area measurement for counter and Virtual IO
+
+
