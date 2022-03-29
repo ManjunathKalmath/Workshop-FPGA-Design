@@ -12,3 +12,11 @@ This repository contains all the information about FPGA - Fabric Design and Arch
 - Day - 4 : Introduction to SOFA FPGA fabric, Running counter on SOFA, Characterizing counter in terms of area and timing and performing Post-implementation netlist and             simulation using SOFA
 
 - Day - 5 : Running RISC V core(rvmyth) on SOFA, Characterizing RISC V core in terms of area and timing and performing Post-implementation netlist and simulation using               SOFA
+
+## Workshop Outcome
+- Understanding of FPGA 
+- FPGA Design flow using Xilinx Vivado Tool
+- OpenFPGA framework
+- Skywater OpenSource FPGA
+
+## Day - 1 : 
