@@ -21,4 +21,26 @@ This repository contains all the information about FPGA - Fabric Design and Arch
 
 ## Day - 1 : Introduction to FPGA, Implementation of Counter using vivado, Performing Vivado timing, power and area measurement for counter and Virtual IO
 
+#### FPGA Design Flow
+
+
+#### Simulation of Counter
+
+#### Timing Analysis of Counter
+
+#### Power 
+
+#### Resource Utilization
+
+#### Virtual IO
+
+## Day - 2 : Introduction to OpenFPGA and VTR, Introduction to VPR using basic Earch fabric and Counter example using VPR/VTR openfpga flow
+
+#### OpenFPGA Framework
+
+#### 
+
+
+
+
 
